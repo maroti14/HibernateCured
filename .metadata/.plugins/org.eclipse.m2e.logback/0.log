@@ -1,0 +1,53 @@
+2024-09-11 11:08:29,031 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-11 11:33:38,211 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-11 11:45:32,885 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-09-11 11:45:36,127 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-09-11 11:45:36,132 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-09-11 11:45:36,135 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-09-12 09:33:02,019 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-12 10:29:51,104 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.6; built: 2024-01-30T02:43:24.387Z; git: 78ab6e6ba163f89cdd97f2ae0283fbb5e371cfaf; jvm 22.0.2+9-70
+2024-09-12 10:29:51,173 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@82bee46{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@33059d68{STARTED}}
+2024-09-12 10:29:51,174 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-09-12 10:29:51,209 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4e2e0e4f{HTTP/1.1, (http/1.1)}{127.0.0.1:60574}
+2024-09-12 10:29:51,237 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@2a47b2b1{STARTING}[12.0.6,sto=0] @3453018ms
+2024-09-12 10:29:52,080 [qtp2062488464-398] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2024-09-12 10:29:52,656 [qtp2062488464-398] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2024-09-12 10:45:30,098 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@2a47b2b1{STOPPING}[12.0.6,sto=0]
+2024-09-12 10:45:30,104 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4e2e0e4f{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-09-12 10:45:49,448 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-12 10:47:24,681 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-13 09:56:25,537 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-15 22:11:40,186 [Worker-16: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-16 09:51:16,669 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-16 12:15:41,718 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-18 19:23:38,467 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-19 13:19:16,072 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-19 22:09:01,989 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-20 10:14:24,312 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-22 11:08:21,866 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-23 09:59:54,608 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-23 13:05:23,795 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-28 21:55:29,335 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-28 21:55:30,070 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-10-09 14:38:57,068 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-09 18:32:56,659 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-09 22:22:51,493 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-11 23:15:06,063 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-12 09:03:39,747 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-14 22:22:48,782 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-15 10:13:15,683 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-15 10:14:00,503 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-10-15 10:14:00,543 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-10-15 10:14:00,549 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-10-15 10:14:00,554 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-10-15 10:14:00,699 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-10-15 10:14:00,702 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-12-07 19:13:24,559 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-07 19:16:31,113 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-12-07 19:16:31,126 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-12-07 19:16:31,132 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-12-07 19:16:31,139 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-12-07 19:17:28,539 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-12-07 19:17:28,541 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-12-07 19:21:50,793 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-12-07 19:21:50,793 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null

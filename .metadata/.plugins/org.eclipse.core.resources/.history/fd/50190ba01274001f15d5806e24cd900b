@@ -1,0 +1,16 @@
+package com.tka.dao1;
+
+import org.hibernate.cfg.Configuration;
+
+import com.tka.entity1.Song;
+
+public class Getper {
+	
+	public static void main(String[] args) {
+		
+		Configuration config = new Configuration();
+		config.configure("hibernate.cfg.xml");
+		config.addAnnotatedClass(Song.class);
+	}
+
+}

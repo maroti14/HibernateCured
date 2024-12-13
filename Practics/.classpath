@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/apiguardian-api-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/assertj-core-3.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/byte-buddy-1.14.11.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/byte-buddy-agent-1.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/byteman-4.0.20.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/byteman-bmunit-4.0.20.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/byteman-install-4.0.20.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/byteman-submit-4.0.20.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/hibernate-community-dialects-6.4.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/hibernate-core-6.4.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/hibernate-testing-6.4.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jakarta.annotation-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jakarta.resource-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jandex-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jaxb-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jboss-marshalling-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jboss-marshalling-river-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jboss-remoting-5.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/jboss-transaction-spi-8.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/junit-jupiter-api-5.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/junit-jupiter-params-5.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/junit-platform-commons-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/log4j-api-2.17.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/log4j-core-2.17.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/mockito-core-5.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/mockito-inline-5.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/moneta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/money-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/narayana-jta-7.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/objenesis-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/opentest4j-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/txw2-4.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/wildfly-client-config-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/wildfly-common-1.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/wildfly-elytron-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/wildfly-naming-client-1.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/wildfly-transaction-client-jakarta-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/xapool-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/jar_files_lyst1726027337340/xnio-api-3.5.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Important/Java Software/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
